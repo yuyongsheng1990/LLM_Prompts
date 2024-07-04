@@ -6,3 +6,4 @@ LLM Prompts:
   - current prompt-tuning 按时间顺序包括：prefix-tuning、p-tuning v1、parameter-efficient prompt tuning、p-tuning v2、Adapter、LoRA等。
     - LoRA 复现 01: MiniLoRA, 简单、通俗、易懂、powerful，https://github.com/cccntu/minLoRA/blob/main/demo.ipynb
     - LoRA 复现 02: LoRA from Scratch on Scratch, https://github.com/sunildkumar/lora_from_scratch/blob/main/lora_on_mnist.ipynb
+    - LoRA 复现 03: PyTorch Tutorial with torchtune, https://pytorch.org/torchtune/stable/tutorials/lora_finetune.html; https://github.com/pytorch/torchtune/blob/48626d19d2108f92c749411fbd5f0ff140023a25/recipes/lora_finetune.py
